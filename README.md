@@ -1,3 +1,5 @@
+[![Neural_Networks_Stock_PredictorImage](https://github.com/benjaminweymouth/Neural_Networks_Stock_Predictor/blob/main/Resources/Neural%20Networks%20Bitcoin%20Predictor.png)](https://github.com/benjaminweymouth/Neural_Networks_Stock_Predictor/blob/main/lstm_stock_predictor_closing.ipynb)
+
 # Deep Learning: Neural Networks BitCoin Predictor
 This GitHub repository highlights 2 Python Jupyter notebooks. They are for building and evaluating deep learning models. They use the FNG index values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
 
