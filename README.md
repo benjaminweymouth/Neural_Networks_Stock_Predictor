@@ -9,7 +9,7 @@ This repo will compare two different deep learning recurrent neural networks to 
 ### FNG Model
 One model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price. They use the FNG index values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
 
-## Conclusions & Analysis
+## Conclusions & Analysis (LSTM VS. FNG) 
 
 ### Question: Which model has a lower loss?
 Answer: The model for the lstm_stock_predictor_closing has a significantly lower loss. 
