@@ -20,6 +20,11 @@ This model will use the FNG indicators to predict the closing price while the se
 
 ## Conclusions & Analysis (LSTM VS. FNG) 
 
+This is the final visualization from this analysis. However, let us dig deeper with a few questions and answers about what this comparative analysis reveals.
+
+![image](https://user-images.githubusercontent.com/47256041/153522649-fb95edb5-048c-464f-b706-b5a678533b76.png)
+
+
 ### Question: Which model has a lower loss?
 Answer: The model for the lstm_stock_predictor_closing has a significantly lower loss. 
 ### Question: Which model tracks the actual values better over time?
