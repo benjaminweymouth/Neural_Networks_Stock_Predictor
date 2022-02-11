@@ -1,4 +1,4 @@
-[![Neural_Networks_Stock_PredictorImage](https://github.com/benjaminweymouth/Neural_Networks_Stock_Predictor/blob/main/Resources/RNNsmaller2.png)](https://github.com/benjaminweymouth/Neural_Networks_Stock_Predictor/blob/main/lstm_stock_predictor_closing.ipynb)
+![image](https://user-images.githubusercontent.com/47256041/153521551-6a743c1a-7971-45e9-a223-69a5dbfc33fa.png)
 
 # Deep Learning: Neural Networks BitCoin Predictor
 

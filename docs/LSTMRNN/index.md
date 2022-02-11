@@ -608,6 +608,6 @@ stocks.plot(title="Actual Vs. Predicted Prices")
 
 
     
-![png](output_26_1.png)
+![image](https://user-images.githubusercontent.com/47256041/153521186-5000008e-8742-47c5-bfee-ff5fb16cbf50.png)
     
 
