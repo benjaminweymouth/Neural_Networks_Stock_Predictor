@@ -10,7 +10,11 @@ RNN, or Recurrent Neural networks provide an analysis typically based on modelli
 
 Here are some screenshots: 
 
-![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)
+[![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
+
+[![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
+
+[![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
 
 
 ### FNG Model
