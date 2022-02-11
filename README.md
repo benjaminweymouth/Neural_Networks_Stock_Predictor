@@ -35,7 +35,9 @@ Building and Training the LSTM / RNN
 ### FNG Model
 This model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price. They use the FNG index values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
 
+### Live Site for FNG Analysis 
 
+https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/FNG/
 
 
 
