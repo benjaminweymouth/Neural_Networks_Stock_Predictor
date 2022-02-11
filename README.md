@@ -10,15 +10,18 @@ RNN, or Recurrent Neural networks provide an analysis typically based on modelli
 
 Here are some screenshots: 
 
-[![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
+[![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)
 
 Loading the Two Datasets for Comparative Analysis 
-[![image](https://user-images.githubusercontent.com/47256041/153524710-c0f8be36-4ee8-4139-aeb1-5a7bd32c1dad.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
+[![image](https://user-images.githubusercontent.com/47256041/153524710-c0f8be36-4ee8-4139-aeb1-5a7bd32c1dad.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)
+
+ 
+Building and Training the LSTM / RNN 
+
+[![image](https://user-images.githubusercontent.com/47256041/153524977-daf15a52-a243-47ea-9919-a1b79d3bd239.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)
 
  
 
-
-[![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
 
 
 ### FNG Model
