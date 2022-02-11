@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+[![Neural_Networks_Stock_PredictorImage](https://github.com/benjaminweymouth/Neural_Networks_Stock_Predictor/blob/main/Resources/RNNsmaller2.png)](https://github.com/benjaminweymouth/Neural_Networks_Stock_Predictor/blob/main/lstm_stock_predictor_closing.ipynb)
 
-You can use the [editor on GitHub](https://github.com/benjaminweymouth/Neural_Networks_Stock_Predictor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Deep Learning: Neural Networks BitCoin Predictor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repo will compare two different deep learning recurrent neural networks to model bitcoin closing prices. Specifically, this GitHub repository highlights 2 Python Jupyter notebooks, for building and evaluating the two deep learning models. 
 
-### Markdown
+### LSTM Model 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+RNN, or Recurrent Neural networks provide an analysis typically based on modelling sequence data, thanks to their sequential memory. LSTM (Long Short-Term Memory) RNNs are one solution for longer time windows. An LSTM RNN works like an original RNN, but it selects which types of longer-term events are worth remembering, and which can be discarded.
 
-```markdown
-Syntax highlighted code block
+### FNG Model
+This model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price. They use the FNG index values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
 
-# Header 1
-## Header 2
-### Header 3
+## Conclusions & Analysis (LSTM VS. FNG) 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benjaminweymouth/Neural_Networks_Stock_Predictor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Question: Which model has a lower loss?
+Answer: The model for the lstm_stock_predictor_closing has a significantly lower loss. 
+### Question: Which model tracks the actual values better over time?
+Answer: The model for the lstm_stock_predictor_closing tracks the actual values better over time
+### Question: Which window size works best for the model?
+Answer: A lower window size works much better. Specifically for the lstm_stock_predictor_closing model, setting the window_size = 2 worked well.  
