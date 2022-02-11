@@ -28,18 +28,24 @@ Building and Training the LSTM / RNN
 
 [![image](https://user-images.githubusercontent.com/47256041/153524977-daf15a52-a243-47ea-9919-a1b79d3bd239.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)
 
- 
-
-
-
-### FNG Model
+ ### FNG Model
 This model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price. They use the FNG index values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
 
 ### Live Site for FNG Analysis 
 
 https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/FNG/
 
+Screenshots for the FNG Analysis: 
 
+![image](https://user-images.githubusercontent.com/47256041/153525457-941d41a5-5f8c-4032-a4e7-cb0fd7ad604d.png)
+
+Loading the Historical Prices for BitCoin 
+
+![image](https://user-images.githubusercontent.com/47256041/153525500-e87d638c-bcff-4477-92aa-1cf23afdd28a.png)
+
+Training the Model (with a Batch Size of 5) 
+
+![image](https://user-images.githubusercontent.com/47256041/153525592-d54d5d1e-fa8d-46ac-a629-9024dc095cef.png)
 
 ## Conclusions & Analysis (LSTM VS. FNG) 
 
