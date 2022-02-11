@@ -6,8 +6,10 @@ This repo will compare two different deep learning recurrent neural networks to 
 
 ### LSTM Model 
 
+RNN, or Recurrent Neural networks provide an analysis typically based on modelling sequence data, thanks to their sequential memory. LSTM (Long Short-Term Memory) RNNs are one solution for longer time windows. An LSTM RNN works like an original RNN, but it selects which types of longer-term events are worth remembering, and which can be discarded.
+
 ### FNG Model
-One model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price. They use the FNG index values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
+This model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price. They use the FNG index values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
 
 ## Conclusions & Analysis (LSTM VS. FNG) 
 
