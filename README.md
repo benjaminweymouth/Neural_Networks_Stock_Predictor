@@ -19,6 +19,9 @@ https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/
 
 ## Conclusions & Analysis (LSTM VS. FNG) 
 
+![image](https://user-images.githubusercontent.com/47256041/153524367-922d66e6-80e0-4f1e-8249-6162ebb5e740.png)
+
+
 ### Question: Which model has a lower loss?
 Answer: The model for the lstm_stock_predictor_closing has a significantly lower loss. 
 ### Question: Which model tracks the actual values better over time?
