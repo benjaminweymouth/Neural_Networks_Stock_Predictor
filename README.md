@@ -12,7 +12,11 @@ Here are some screenshots:
 
 [![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
 
-[![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
+Loading the Two Datasets for Comparative Analysis 
+[![image](https://user-images.githubusercontent.com/47256041/153524710-c0f8be36-4ee8-4139-aeb1-5a7bd32c1dad.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
+
+ 
+
 
 [![image](https://user-images.githubusercontent.com/47256041/153524565-e2682597-eb6b-46a8-ac82-2c076d7c85ea.png)](https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/LSTMRNN/)]
 
