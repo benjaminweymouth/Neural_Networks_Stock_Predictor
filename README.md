@@ -47,6 +47,12 @@ Training the Model (with a Batch Size of 5)
 
 ![image](https://user-images.githubusercontent.com/47256041/153525592-d54d5d1e-fa8d-46ac-a629-9024dc095cef.png)
 
+Evaluating the Model using the Test Data 
+
+![image](https://user-images.githubusercontent.com/47256041/153530468-f426df05-ffde-40ed-bc40-c18b4850518b.png)
+
+
+
 ## Conclusions & Analysis (LSTM VS. FNG) 
 
 This is the final visualization from this analysis. However, let us dig deeper with a few questions and answers about what this comparative analysis reveals. 
