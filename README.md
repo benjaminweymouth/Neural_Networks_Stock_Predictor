@@ -19,6 +19,8 @@ https://benjaminweymouth.github.io/Neural_Networks_Stock_Predictor/
 
 ## Conclusions & Analysis (LSTM VS. FNG) 
 
+This is the final visualization from this analysis. However, let us dig deeper with a few questions and answers about what this comparative analysis reveals. 
+
 ![image](https://user-images.githubusercontent.com/47256041/153524367-922d66e6-80e0-4f1e-8249-6162ebb5e740.png)
 
 
